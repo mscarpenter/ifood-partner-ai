@@ -80,7 +80,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 ```
-👨‍💻 Autor
-Mateus S. Carpenter
+Projeto Por:
+Mateus S. Carpenter 👨‍💻
 
 LinkedIn: https://www.linkedin.com/in/mateus-carpenter-a06773140/
