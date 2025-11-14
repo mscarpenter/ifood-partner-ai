@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Arquivos de Cache
+__pycache__/
+
+# SENHAS E SEGREDOS!
+.env
+
+# Arquivos do Next.js (para não misturar)
+front-ifood/node_modules/
+front-ifood/.next/
